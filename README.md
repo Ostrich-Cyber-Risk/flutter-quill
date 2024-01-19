@@ -22,8 +22,6 @@
 
 ---
 
-ChipW -- Testing DevOps integration.
-
 FlutterQuill is a rich text editor and a [Quill] component for [Flutter].
 
 This library is a WYSIWYG editor built for the modern mobile platform, with web compatibility under development. Check out our [Youtube Playlist] or [Code Introduction] to take a detailed walkthrough of the code base. You can join our [Slack Group] for discussion.
